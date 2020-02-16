@@ -58,9 +58,9 @@ nb-configuration.xml
 ## OS X
 ##########################
 .DS_Store
-
 ########
 # node.js
 ########
 node_modules
 .env
+.vscode
