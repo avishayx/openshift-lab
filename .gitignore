@@ -63,4 +63,4 @@ nb-configuration.xml
 ########
 node_modules
 .env
-.vscode
+.vscode/
